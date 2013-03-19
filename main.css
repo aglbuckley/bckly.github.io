@@ -41,3 +41,13 @@ div {
 #nothing {
 	color: #FF4D4D;
 }
+
+/* iPhone
+-------------------------------------------------------- */
+@media only screen and (max-device-width: 480px) {
+	h2 {
+		font-size: 12px;
+	}
+}
+} 
+/* @iPhone */
